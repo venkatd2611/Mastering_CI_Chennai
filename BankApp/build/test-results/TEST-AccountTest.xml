@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AccountTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-08-03T10:08:19" hostname="DIN73002297" time="0.297">
+  <properties/>
+  <testcase name="when_valid_accountNumber_and_sufficient_amount_is_passed_method_should_deduct_the_balance_and_return_the_account_object" classname="AccountTest" time="0.281"/>
+  <testcase name="account_should_not_be_created_if_amount_is_less_than_500" classname="AccountTest" time="0.0"/>
+  <testcase name="when_invalid_accountNumber_method_should_throw_exception" classname="AccountTest" time="0.0"/>
+  <testcase name="account_should_be_created_successfully_if_amount_is_min_500" classname="AccountTest" time="0.0"/>
+  <testcase name="when_valid_accountNumber_is_passed_method_should_return_account_object" classname="AccountTest" time="0.0"/>
+  <testcase name="when_invalid_accountNumber_is_passed_method_should_throw_excpetion" classname="AccountTest" time="0.0"/>
+  <testcase name="when_amount_passed_is_greater_than_balance_method_should_throw_exception" classname="AccountTest" time="0.016"/>
+  <testcase name="when_amount_passed_is_less_than_zero_method_should_throw_exception" classname="AccountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
